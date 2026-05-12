@@ -40,7 +40,7 @@ Outside of security research, I like reading CVEs, experimenting with new techno
 ## 🌐 Connect With Me
 
 * Instagram: [https://www.instagram.com/geoking_v1.0_amd64.deb](https://www.instagram.com/geoking_v1.0_amd64.deb)
-* Discord: [https://discord.com/users/1083064213230059532](https://discord.com/users/1083064213230059532)
+* Discord: ```@geoking01```
 
 ---
 
