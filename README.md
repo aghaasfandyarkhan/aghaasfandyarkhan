@@ -46,7 +46,7 @@ Outside of security research, I like reading CVEs, experimenting with new techno
 
 ## ⚡ Philosophy
 
-> “Stay curious. Keep learning.”
+> “Keep touching the terminal. Play more in Cyberland, it's not about winning or losing. It's above achieving your goal.”
 
 ---
 
