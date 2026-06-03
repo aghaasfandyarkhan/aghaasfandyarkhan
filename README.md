@@ -66,4 +66,4 @@ Linux has always been the core of my workflow — from system administration and
 * Offensive Security
 * Virtualization Technologies
 * Security Automation
-## Shout Out to ChatGPT for vibe coding this for me. I am bit lazy to write markdown files. HEHEHEHEH :)
+## Shout Out to ChatGPT for vibe documenting this for me. I am bit lazy to write markdown files. HEHEHEHEH :)
