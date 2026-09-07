@@ -51,9 +51,9 @@ I regularly build isolated environments to test security concepts, analyze softw
 
 ## Connect With Me
 
-Instagram: https://www.instagram.com/geoking_v1.0_amd64.deb
+Instagram: [https://www.instagram.com/asfandyar.deb/](https://www.instagram.com/asfandyar.deb/)
 
-Discord: `@geoking01`
+Discord: 
 
 ## Philosophy
 
