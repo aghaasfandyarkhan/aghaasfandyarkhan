@@ -53,7 +53,7 @@ I regularly build isolated environments to test security concepts, analyze softw
 
 Instagram: [https://www.instagram.com/asfandyar.deb/](https://www.instagram.com/asfandyar.deb/)
 
-Discord: 
+Discord: ```@asfandyar.deb```
 
 ## Philosophy
 
