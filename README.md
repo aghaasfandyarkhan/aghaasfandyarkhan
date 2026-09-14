@@ -1,6 +1,6 @@
 # Agha Asfandyar Khan
 
-**Codename: GeoKing**
+## **Codename: GeoKing**
 
 ## About Me
 
