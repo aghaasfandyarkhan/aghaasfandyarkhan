@@ -15,7 +15,7 @@ Outside of security research, I spend time studying CVEs, experimenting with new
 ## Skills
 
 * Linux Administration
-* Malware Analysis
+* Malware Development & Analysis
 * Red Team Operations
 * Bash Scripting
 * System Hardening
